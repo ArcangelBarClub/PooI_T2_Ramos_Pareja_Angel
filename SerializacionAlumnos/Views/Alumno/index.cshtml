@@ -1,0 +1,62 @@
+﻿@model IEnumerable<SerializacionAlumnos.Models.Alumno>
+
+@{
+    ViewBag.Title = "Lista de Alumnos";
+}
+
+<h2>Lista de Alumnos</h2>
+
+<p>
+    @Html.ActionLink("Nuevo Alumno",
+                    "Agregar",
+                    null,
+                    new { @class = "btn btn-primary" })
+</p>
+
+<table class="table table-bordered">
+    <tr>
+        <th>DNI</th>
+        <th>Nombres</th>
+        <th>Apellidos</th>
+        <th>Carrera</th>
+        <th>Ciclo</th>
+        <th>Acciones</th>
+        <th>Detalles</th>
+        <th>Actualizar</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Dni</td>
+            <td>@item.Nombres</td>
+            <td>@item.Apellidos</td>
+            <td>@item.Carrera</td>
+            <td>@item.Ciclo</td>
+
+            <td>
+                @Html.ActionLink(
+                "Eliminar",
+                "Eliminar",
+                new { id = item.Dni },
+                new { @class = "btn btn-danger" })
+            </td>
+
+            <td>
+                @Html.ActionLink(
+                    "Detalles",
+                    "Detalles",
+                    new { id = item.Dni },
+                    new { @class = "btn btn-info" })
+            </td>
+
+            <td>
+                @Html.ActionLink(
+                    "Actualizar",
+                    "Actualizar",
+                    new { id = item.Dni },
+                    new { @class = "btn btn-warning" })
+            </td>
+        </tr>
+    }
+</table>

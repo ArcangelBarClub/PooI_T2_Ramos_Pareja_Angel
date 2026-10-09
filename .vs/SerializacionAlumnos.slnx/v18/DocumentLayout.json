@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|c:\\users\\angel\\source\\repos\\serializacionalumnos\\serializacionalumnos\\views\\alumno\\actualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|solutionrelative:serializacionalumnos\\views\\alumno\\actualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|c:\\users\\angel\\source\\repos\\serializacionalumnos\\serializacionalumnos\\app_data\\alumno.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|solutionrelative:serializacionalumnos\\app_data\\alumno.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|c:\\users\\angel\\source\\repos\\serializacionalumnos\\serializacionalumnos\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|solutionrelative:serializacionalumnos\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|c:\\users\\angel\\source\\repos\\serializacionalumnos\\serializacionalumnos\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|solutionrelative:serializacionalumnos\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|c:\\users\\angel\\source\\repos\\serializacionalumnos\\serializacionalumnos\\views\\alumno\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|solutionrelative:serializacionalumnos\\views\\alumno\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|c:\\users\\angel\\source\\repos\\serializacionalumnos\\serializacionalumnos\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|solutionrelative:serializacionalumnos\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|c:\\users\\angel\\source\\repos\\serializacionalumnos\\serializacionalumnos\\views\\alumno\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|solutionrelative:serializacionalumnos\\views\\alumno\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|c:\\users\\angel\\source\\repos\\serializacionalumnos\\serializacionalumnos\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682F98CE-BD79-49D7-ACD3-DBA8CDDCBA33}|SerializacionAlumnos\\SerializacionAlumnos.csproj|solutionrelative:serializacionalumnos\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actualizar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\Views\\Alumno\\Actualizar.cshtml",
+              "RelativeDocumentMoniker": "SerializacionAlumnos\\Views\\Alumno\\Actualizar.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\Views\\Alumno\\Actualizar.cshtml",
+              "RelativeToolTip": "SerializacionAlumnos\\Views\\Alumno\\Actualizar.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T22:42:58.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detalles.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\Views\\Alumno\\Detalles.cshtml",
+              "RelativeDocumentMoniker": "SerializacionAlumnos\\Views\\Alumno\\Detalles.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\Views\\Alumno\\Detalles.cshtml",
+              "RelativeToolTip": "SerializacionAlumnos\\Views\\Alumno\\Detalles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T22:31:01.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "SerializacionAlumnos\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "SerializacionAlumnos\\Controllers\\AlumnoController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwHEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T20:45:58.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "alumno.json",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\App_Data\\alumno.json",
+              "RelativeDocumentMoniker": "SerializacionAlumnos\\App_Data\\alumno.json",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\App_Data\\alumno.json",
+              "RelativeToolTip": "SerializacionAlumnos\\App_Data\\alumno.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-07T20:56:36.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\Views\\Alumno\\index.cshtml",
+              "RelativeDocumentMoniker": "SerializacionAlumnos\\Views\\Alumno\\index.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\Views\\Alumno\\index.cshtml",
+              "RelativeToolTip": "SerializacionAlumnos\\Views\\Alumno\\index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T20:58:06.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\Models\\Alumno.cs",
+              "RelativeDocumentMoniker": "SerializacionAlumnos\\Models\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\Models\\Alumno.cs",
+              "RelativeToolTip": "SerializacionAlumnos\\Models\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T20:42:06.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Agregar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\Views\\Alumno\\Agregar.cshtml",
+              "RelativeDocumentMoniker": "SerializacionAlumnos\\Views\\Alumno\\Agregar.cshtml",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\Views\\Alumno\\Agregar.cshtml",
+              "RelativeToolTip": "SerializacionAlumnos\\Views\\Alumno\\Agregar.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T20:58:51.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "SerializacionAlumnos\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\SerializacionAlumnos\\SerializacionAlumnos\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "SerializacionAlumnos\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:22:00.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

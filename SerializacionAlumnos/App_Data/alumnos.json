@@ -1,0 +1,23 @@
+[
+  {
+    "Dni": "09698093",
+    "Nombres": "angel",
+    "Apellidos": "ramos",
+    "Carrera": "computacion",
+    "Ciclo": "1"
+  },
+  {
+    "Dni": "09698094",
+    "Nombres": "Maria",
+    "Apellidos": "Fernadez",
+    "Carrera": "contabilidad",
+    "Ciclo": "3"
+  },
+  {
+    "Dni": "09698097",
+    "Nombres": "Carlos",
+    "Apellidos": "Bellido Morales",
+    "Carrera": "lenguaje",
+    "Ciclo": "4"
+  }
+]
